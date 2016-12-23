@@ -1,0 +1,52 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 25/03/14
+// Seção de Declarações 
+var
+
+inicio
+escreval("                                            SO                                                                              ")
+escreval("                                           iB:r2                                                                          ")
+escreval("                                           B,   N:                                                                      ")
+escreval("                                          PM.    Su:     .                                                            ")
+escreval("                                         722:iu7   :iijq@F                                                          ")
+escreval("                                         ZY:   iFY,,:r;:                                                          ")
+escreval("                                        @@i:i:    .                                                             ")
+escreval("                                       8M,L,7uuv.                                                             ")
+escreval("                                      7@.:: .,;uZN.                                                         ")
+escreval("                                      i@ X       77                                                       ")
+escreval("                                       rr:                                                              ")
+escreval("                                      vi2                                                             ")
+escreval("       0X2vvi                         N:Y  25Yvi.                                                   ")
+escreval("      E7   :iL1Ui.                   .Ui  B7 .:vUP7                                               ")
+escreval("     7S         ik2i                 u:; Bi       7ki                                           ")
+escreval("     @             iS5.              M PB1.iir:.    UY                                        ")
+escreval("    :E,vi:::.        .jY.           :1 BF      :ri. .7                                      ")
+escreval("    k@S    :irii.       ur          P. 5. .::i.   r:N                                     ")
+escreval("    Or,.       .:;r:.   77          @  k:     ..:,  B                                                                         ")
+escreval("    Si,,           ,i7: iE    .ivjLu877uviiri:rv:..qv                                                                       ")
+escreval("    vU i              ,:UBr:XUri:             : .r.B                                                                      ")
+escreval("   .@ 2                 v2Yu:     ..:.:::,:: .    LiurGi                                                                ")
+escreval("     B u                   :J7Lu2U. ir  r   0  ir,:  :7P:Yv.                                                          ")
+escreval("     @ :i                    :YjL7. .   i  v0S:7  ,M,,..,.,r7:                                                      ")
+escreval("     SL S                      .7uNLOF:.@UFMvOF.irqX  J :::..iLi                                                  ")
+escreval("     :B q                         .7uES:@L  ..i7vBUX  iir .ii: B,                                               ")
+escreval("      @ :Y                            i2qBi     .,7L,  707 E..r8                                              ")
+escreval("      Br E                               iB0.       v@rO:vLO1i:5                                            ")
+escreval("      rB iL                                .rrYi:,,U@B2 .:iuY7:r 0 r:                                     ")
+escreval("       @  O                                    .,:.:,vE: :.  .v@8PU@7                                   ")
+escreval("       SM ,O                                           ;Jr7:,:FqBr@iXB                                ")
+escreval("        @  Oi                                              ,.    ,7,.0                              ")
+escreval("        :@  @                                                       .i                            ")
+escreval("         ZE O7.    r:                                               U                           ")
+escreval("          @,: ri  :E.  .r:                                         7:                         ")
+escreval("       ku:r@:: L  u, :7:J:                                       ,UL                        ")
+escreval("        ,:..iB  i.M:i  .   .                                  .MNY:                       ")
+escreval("          ::  . i@E  .v:r.:k   i                              ;i                        ")
+escreval("        N. .vL,  7 .OM ij ,:.:vj                             7r                       ")
+escreval("        .i    v;       7 vJ:  .                             r7                      ")
+escreval("7rri7iiv;ikZ8N::        iJ  .:  .  .,.,      ...           JZ  .,    .    .         ")
+escreval("..,,..;O:    . ..          i5rvO07r:.ZBrLPi77r:LBurir2v7r7U@i:rr:rii;iirir:       ")
+escreval("       ,::::,.::riii:ir:i::.7L2,        ..            . .                       ")
+fimalgoritmo
